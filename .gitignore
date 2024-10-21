@@ -10,3 +10,4 @@ ENV/
 env.bak/
 venv.bak/
 .ipynb_checkpoints/01-Python-Basics-checkpoint.ipynb
+post_create_log.txt
